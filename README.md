@@ -5,6 +5,7 @@
 
 # Eğitim ve Doğrulama Başarımı
 
-
+![1](https://user-images.githubusercontent.com/54184905/78245372-0995b280-74f0-11ea-8405-363135d3050e.PNG)
+![2](https://user-images.githubusercontent.com/54184905/78245375-0ac6df80-74f0-11ea-95df-b7b3b45d282b.PNG)
 
 # Eğitim ve Doğrulama Kaybı
