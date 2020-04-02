@@ -11,3 +11,7 @@
 # Eğitim ve Doğrulama Kaybı
 
 ![1](https://user-images.githubusercontent.com/54184905/78245372-0995b280-74f0-11ea-8405-363135d3050e.PNG)
+
+
+# Testler
+
