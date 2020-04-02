@@ -148,7 +148,7 @@ train_generator = train_datagen.flow_from_directory(
         # ikili etiketler gerekiyor.
         class_mode='binary')
 
-# çeşitlendirilmiş verileri kullanmak (doğrulama)
+# verileri kullanmak (doğrulama)
 validation_generator = test_datagen.flow_from_directory(
 
         validation_dir,
